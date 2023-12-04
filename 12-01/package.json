@@ -1,0 +1,12 @@
+{
+  "name": "12-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start:p1": "nodemon app-p1.js",
+    "start:p2": "nodemon app-p2.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
